@@ -24,16 +24,6 @@ void loop()
   int xval = gForceX;
   int yval = gForceY;
   
-  //Serial.print("xval=");
-  //Serial.println(xval);
-  
-  //Serial.print("yval=");
-  //Serial.println(yval); 
-  
-  //delay(1000); //used to display values after 1s delay
-  
-  //Serial.print("\n");
-  
   if ((xval>370 && xval<385) && (yval>360 && yval<380)) //stationary or stop(transmitter parallel to ground)
   {
     digitalWrite(ledPin,LOW);
@@ -105,16 +95,6 @@ void processAccelData(){
   gForceZ = accelZ / 16384.0;
 }
 
-
-// void printData() {
-//   Serial.print(" Accel (g)");
-//   Serial.print(" X=");
-//   Serial.print(gForceX);
-//   Serial.print(" Y=");
-//   Serial.print(gForceY);
-//   Serial.print(" Z=");
-//   Serial.println(gForceZ);
-// }
 
 
 

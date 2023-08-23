@@ -58,3 +58,7 @@ The Gesture Controlled Bot project had a positive impact on the 3rd Annual Tech 
 
 ### Conclusion
 The Gesture Controlled Bot project was a successful endeavor, resulting in a functional robot with improved gesture recognition capabilities and a modular design. Its successful demonstration at Cepheus '23 helped promote interest in robotics and technology among attendees. This project underscores the potential for gesture-controlled robotics in various applications and showcases the exciting possibilities that arise from the fusion of hardware and software in the field of robotics.
+
+### Media
+![](https://github.com/tyagibhavya/gesture-controlled-bot/blob/main/Media/gesture-bot-demo2.gif)
+![](https://github.com/tyagibhavya/gesture-controlled-bot/blob/main/Media/gesture-bot-demo3.gif)

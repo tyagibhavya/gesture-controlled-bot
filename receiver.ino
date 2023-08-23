@@ -36,9 +36,6 @@ void loop()
 	
 	for (i = 0; i < buflen; i++)
 	{
-	   // Serial.print(buf[i],HEX);//You may also use integer values debugging
-	    //Serial.print(' ');// debugging
-
           if (buf[i]==0x73)//Stationary
           {
             digitalWrite(lm,LOW);  
@@ -89,7 +86,5 @@ void loop()
             }
            }   
 	  }
-	  //Serial.print("\n");// debugging
         }
-        //delay(1000);
 }

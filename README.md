@@ -2,6 +2,8 @@
 ### Introduction
 In January 2023, I embarked on a project to create a Gesture Controlled Bot using Arduino. This project aimed to develop a robot that could respond to hand gestures, utilizing the MPU6050 sensor for gesture recognition. The report outlines the key milestones achieved during the project, including hardware and software development, testing, and the successful demonstration of the bot at Cepheus '23, a tech fest. Additionally, the report highlights the impact of the project on fostering interest in robotics and technology among attendees.
 
+![arduino-gesture-bot](https://github.com/tyagibhavya/gesture-controlled-bot/assets/99269005/06897a3f-0ebd-4dfd-b655-92256a6d2f5f)
+
 ### Project Overview
 #### Hardware Components
 - **Arduino Uno:** The brain of the robot, responsible for processing sensor data and controlling the motors.
